@@ -7,7 +7,7 @@
 }
 
 body {
-	font-family: 'Varela Round', sans-serif;
+	font-family: 'Roboto', 'Varela Round', sans-serif;
     line-height: 1.6;
 }
     
@@ -49,6 +49,7 @@ img {
     display: block;
     text-align: center;
     padding: 10px 15px;
+    color: rgb(76, 84, 94);
 }
 
 .main-nav a {
@@ -105,7 +106,6 @@ img {
 
 section {
     margin-top: 3em;
-    /* font-family: ; */
 }
  
 
@@ -152,6 +152,7 @@ section p {
 	padding: 2em 0;
     margin: 30px 2em 0 2em;
     text-align: center;
+    border-top: 1px solid rgb(214, 214, 214)
 }
 
 .main-footer div {
